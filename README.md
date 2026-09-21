@@ -1,1 +1,2 @@
 # PBN-Model
+Vishal Srivastava, Akshaya Prabu, Sravya N, Vibha Damodara Kevala, Shyam Lal, Jyoti Kini, “An Efficient Parallel Branch Network for Multi-class Classification of Prostate Cancer from Histopathology Images”, International Journal of Imaging Systems and Technology, 2025; 35: e70092, Wiley Publisher. (Published) Indexed by SCIE, JCR (2023) Impact Factor: 3.3. DOI: https://doi.org/10.1002/ima.70092
